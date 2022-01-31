@@ -1,0 +1,8 @@
+<NETBOX-API>
+<COMMAND name="Login" num="1" dateformat="tzoffset">
+<PARAMS>
+<USERNAME>admin</USERNAME>
+<PASSWORD>admin</PASSWORD>
+</PARAMS>
+</COMMAND>
+</NETBOX-API>
