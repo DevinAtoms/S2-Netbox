@@ -3,7 +3,7 @@ import xml2dict as xml
 from constants import *
 
 
-class NBAPI:
+class APISession:
     def __init__(self, ip, username, password):
         self.ip = ip
         self.username = username

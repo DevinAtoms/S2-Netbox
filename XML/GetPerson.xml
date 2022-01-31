@@ -1,0 +1,7 @@
+<NETBOX-API sessionid="900493538">
+    <COMMAND name="GetPerson" num="1" dateformat="tzoffset">
+        <PARAMS>
+            <PERSONID>21001</PERSONID>
+        </PARAMS>
+    </COMMAND>
+</NETBOX-API>
